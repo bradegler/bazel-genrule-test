@@ -1,6 +1,7 @@
 #include <ctime>
 #include <string>
 #include <iostream>
+#include "foo/foo.h"
 
 std::string get_greet(const std::string& who) {
   return "Hello " + who;
