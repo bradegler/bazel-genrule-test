@@ -1,3 +1,3 @@
 #!/bin/sh
 
-echo "// Make magic happen" > foo.h;
+echo "// Make magic happen";
